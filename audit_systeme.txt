@@ -1,0 +1,198 @@
+====== AUDIT SYSTEME - WINDOWS 11 ======
+Date : Wed May  7 14:48:46     2025
+
+---- INFORMATIONS SYSTEME ----
+
+---- UTILISATION CPU ----
+
+---- MEMOIRE (RAM) ----
+
+---- ESPACE DISQUE ----
+
+---- PROCESSUS ACTIFS ----
+
+---- SERVICES ----
+Les services Windows suivants ont ‚t‚ lanc‚sÿ:
+
+   Acquisition d'image Windows (WIA)
+   Alimentation
+   Appel de proc‚dure distante (RPC)
+   Assistance IP
+   Assistance NetBIOS sur TCP/IP
+   aswbIDSAgent
+   Audio Windows
+   Avast Antivirus
+   Avast Firewall Service
+   Avast Tools
+   AvastWscReporter
+   cbdhsvc_5a135
+   CDPUserSvc_5a135
+   Centre de s‚curit‚
+   Client de strat‚gie de groupe
+   Client de suivi de lien distribu‚
+   Client DHCP
+   Client DNS
+   Connaissance des emplacements r‚seau
+   Consommation des donn‚es
+   CoreMessaging
+   DevicesFlowUserSvc_5a135
+   D‚couverte SSDP
+   D‚tection mat‚riel noyau
+   Exp‚riences des utilisateurs connect‚s et t‚l‚m‚trie
+   Gestionnaire de comptes de s‚curit‚
+   Gestionnaire de comptes web
+   Gestionnaire de session locale
+   Gestionnaire des connexions d'accŠs … distance
+   Gestionnaire des connexions Windows
+   Gestionnaire des utilisateurs
+   Gestionnaire d'informations d'identification
+   G‚n‚rateur de points de terminaison du service Audio Windows
+   Informations d'application
+   Infrastructure de gestion Windows
+   Installation du service Microsoft Store
+   Intel(R) Content Protection HDCP Service
+   Intel(R) Content Protection HECI Service
+   Intel(R) Dynamic Application Loader Host Interface Service
+   Intel(R) HD Graphics Control Panel Service
+   Intel(R) Management Engine WMI Provider Registration
+   Intel(R) TPM Provisioning Service
+   Isolation de cl‚ CNG
+   Journal d'‚v‚nements Windows
+   Lanceur de processus serveur DCOM
+   Mappeur de point de terminaison RPC
+   Modules de g‚n‚ration de cl‚s IKE et AuthIP
+   Moteur de filtrage de base
+   NPSMSvc_5a135
+   NVIDIA Display Container LS
+   NVWMI
+   Office Software Protection Platform
+   OneSyncSvc_5a135
+   Optimisation de livraison
+   Pare-feu Windows Defender
+   Partage de connexion Internet (ICS)
+   Planificateur de tƒches
+   Plug-and-Play
+   PostgreSQL Scheduling Agent - pgagent-pg17
+   postgresql-x64-17 - PostgreSQL Server 17
+   PrintWorkflowUserSvc_5a135
+   Serveur
+   Serveur Gestionnaire de licences Windows
+   Service AVCTP
+   Service Broker des ‚v‚nements systŠme
+   Service Broker pour les connexions r‚seau
+   Service Broker pour les ‚v‚nements horaires
+   Service d'am‚lioration de l'affichage
+   Service d'h“te HV
+   Service de cache de police Windows
+   Service de capteur
+   Service de configuration automatique WLAN
+   Service de d‚couverte automatique de Proxy Web pour les services HTTP Windows
+   Service de d‚ploiement AppX (AppXSVC)
+   Service de gestion des entr‚es de texte
+   Service de gestion radio
+   Service de g‚olocalisation
+   Service de l'Assistant Compatibilit‚ des programmes
+   Service de notification d'‚v‚nements systŠme
+   Service de partage des donn‚es
+   Service de passerelle audio Bluetooth
+   Service de plateforme des appareils connect‚s
+   Service de prise en charge Bluetooth
+   Service de profil utilisateur
+   Service de r‚seau h“te
+   Service de stockage
+   Service de strat‚gie d'affichage
+   Service de strat‚gie de diagnostic
+   Service de virtualisation de r‚seau
+   Service du systŠme de notifications Push Windows
+   Service d'association de p‚riph‚rique
+   Service d'infrastructure des tƒches en arriŠre-plan
+   Service Gestionnaire d'accŠs aux fonctionnalit‚s
+   Service Interface du magasin r‚seau
+   Service Liste des r‚seaux
+   Service Orchestrator pour les mises … jour
+   Service State Repository (StateRepository)
+   Service S‚curit‚ Windows
+   Services de chiffrement
+   ServiceÿSSTP (Secure Socket Tunneling Protocol)
+   Spouleur d'impression
+   Station de travail
+   SynTPEnh Caller Service
+   SysMain
+   SystŠme d'‚v‚nement COM+
+   Temps Windows
+   ThŠmes
+   UdkUserSvc_5a135
+   VMware DHCP Service
+   VMware USB Arbitration Service
+   webthreatdefusersvc_5a135
+   Windows Search
+   Windows Update
+   WpnUserService_5a135
+   WSL Service
+
+La commande s'est termin‚e correctement.
+
+
+---- INFORMATIONS RESEAU ----
+
+Erreur : ligne de commande inconnue ou incomplŠte.
+
+UTILISATIONÿ:
+    ipconfig [/allcompartments] [/? | /all |
+                                 /renew [carte] | /release [carte] |
+                                 /renew6 [carte] | /release6 [carte] |
+                                 /flushdns | /displaydns | /registerdns |
+                                 /showclassid carte |
+                                 /setclassid carte [ID_classe] |
+                                 /showclassid6 carte |
+                                 /setclassid6 carte [ID_classe] ]
+
+o—
+    carte             Nom de connexion
+                       (caractŠres g‚n‚riques * et ? autoris‚s, voir les
+                        exemples)
+
+    Optionsÿ:
+       /?               Affiche ce message d'aide
+       /all             Affiche toutes les informations de configuration.
+       /release         LibŠre l'adresse IPv4 pour la carte sp‚cifi‚e.
+       /release6        LibŠre l'adresse IPv6 pour la carte sp‚cifi‚e.
+       /renew           Renouvelle l'adresse IPv4 pour la carte sp‚cifi‚e.
+       /renew6          Renouvelle l'adresse IPv6 pour la carte sp‚cifi‚e.
+       /flushdns        Purge le cache de r‚solution DNS.
+       /registerdns     Actualise tous les baux DHCP et r‚enregistre les noms
+                        DNS
+       /displaydns      Affiche le contenu du cache de r‚solution DNS.
+       /showclassid     Affiche tous les ID de classe DHCP autoris‚s pour la
+                        carte.
+       /setclassid      Modifie l'ID de classe DHCP.
+       /showclassid6    Affiche tous les ID de classe DHCP IPv6 autoris‚s pour
+                        la carte.
+       /setclassid6     Modifie l'ID de classe DHCP IPv6.
+
+
+La valeur par d‚faut affiche uniquement l'adresse IP, le masque de sous-r‚seau
+et la passerelle par d‚faut de chaque carte li‚e … TCP/IP.
+
+Pour Release et Renew, si aucun nom de carte n'est sp‚cifi‚, les baux d'adresse
+IP pour toutes les cartes li‚es … TCP/IP sont lib‚r‚s ou renouvel‚s.
+
+Pour Setclassid et Setclassid6, si aucun ID de classe n'est sp‚cifi‚, l'ID de
+classe est supprim‚.
+
+Exemplesÿ:
+    > ipconfig                       ... Affiche des informations
+    > ipconfig /all                  ... Affiche des informations d‚taill‚es
+    > ipconfig /renew                ... renouvelle toutes les cartes
+    > ipconfig /renew EL*            ... renouvelle toute connexion dont le nom
+                                         commence par EL
+    > ipconfig /release *Con*        ... libŠre toutes les connexions
+                                         correspondantes,
+                                         par ex. ®ÿConnexion Ethernet
+                                         cƒbl‚e 1ÿ¯ ou ®ÿConnexion Ethernet
+                                         cƒbl‚e 2ÿ¯
+    > ipconfig /allcompartments      ... Affiche des informations sur tous les
+                                         compartiments
+    > ipconfig /allcompartments /all ... Affiche des informations d‚taill‚es
+                                         sur tous les compartiments
+
