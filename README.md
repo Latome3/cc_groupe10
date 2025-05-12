@@ -18,9 +18,9 @@ Le projet contient trois scripts principaux :
 
 | Fichier                        | Fonctionalité                                |
 |-------------------------------|----------------------------------------------|
-| `install_silencieux.sh`       | Installe des logiciels en mode silencieux    |
-| `audit_systeme.sh`            | Collecte et enregistre des informations sur le système     |
-| `export_logs.sh`              | Exporte les logs d’événements système        |
+| `Installation_silencieuse.ps1`       | Installe des logiciels en mode silencieux    |
+| `audit.sh`            | Collecte et enregistre des informations sur le système     |
+| `mon_script.sh`              | Exporte les logs d’événements système        |
 
 >  **Note** : Tous les scripts sont indépendants et peuvent être exécutés séparément.
 
