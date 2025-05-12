@@ -35,7 +35,7 @@ Le projet contient trois scripts principaux :
 Ouvrez un terminal compatible et exécutez les scripts de la manière suivante :
 
 ```bash
-./install_silencieux.sh
-./audit_systeme.sh
-./export_logs.sh
+./Installation_silencieuse.ps1
+./audit.sh
+./mon_script.sh
 
